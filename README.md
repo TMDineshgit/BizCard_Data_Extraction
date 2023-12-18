@@ -17,4 +17,4 @@ Requirements
 Run
 -------
 
-streamlit run BizCardX_main.py
+1. streamlit run [filename.py]
