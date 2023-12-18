@@ -14,7 +14,7 @@ Requirements
 5. pip install numpy,
 6. pip install pillow
 
-install
+Run
 -------
 
 streamlit run BizCardX_main.py
